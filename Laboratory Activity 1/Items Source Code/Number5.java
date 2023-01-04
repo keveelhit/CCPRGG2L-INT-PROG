@@ -1,7 +1,7 @@
 package Laboratory1.Number5;
 
 import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
 public class Number5 {
   public static void main(String[] args) throws IOException, FileNotFoundException {
