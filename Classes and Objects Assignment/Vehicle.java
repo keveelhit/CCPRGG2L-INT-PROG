@@ -1,3 +1,15 @@
+
+/* 
+Section: INF224
+Assignment in CCPRGG2L: Classes and Objects   
+Members:
+  Catapang, Gabriel
+  Dala, Luisa
+  Gumarao, Sean Kervin
+  Pabilando, Karen Pearl
+  Saliendra, Ace
+*/
+
 public class Vehicle{
 
     // Variables of Attributes
